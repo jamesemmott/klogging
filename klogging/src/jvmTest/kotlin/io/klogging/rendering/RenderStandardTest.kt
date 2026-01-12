@@ -1,6 +1,6 @@
 /*
 
-   Copyright 2024 Baris Ceviz.
+   Copyright 2021-2026 Baris Ceviz and Michael Strasser.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
